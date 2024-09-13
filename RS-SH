@@ -292,7 +292,7 @@ TextLabel_3.Size = UDim2.new(0, 250, 0, 50)
 TextLabel_3.Font = Enum.Font.Unknown
 TextLabel_3.Text = "Hello, notaskibidirizz!"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_3.TextSize = 19.000
+TextLabel_3.TextSize = 17.000
 
 Frame_5.Parent = Frame
 Frame_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
@@ -310,7 +310,7 @@ TextLabel_4.Size = UDim2.new(0, 250, 0, 48)
 TextLabel_4.Font = Enum.Font.Unknown
 TextLabel_4.Text = "Announcements"
 TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_4.TextSize = 34.000
+TextLabel_4.TextSize = 20.000
 
 TextLabel_5.Parent = Frame_5
 TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
