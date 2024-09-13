@@ -120,7 +120,7 @@ Bloxfruits.Text = "Blox Fruits"
 Bloxfruits.TextColor3 = Color3.fromRGB(255, 255, 255)
 Bloxfruits.TextSize = 14.000
 Bloxfruits.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://scriptblox.com/raw/Blox-Fruits-Speed-Hub-X-No-Key-13826"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 end)
 
 EvelHub.Name = "EvelHub"
